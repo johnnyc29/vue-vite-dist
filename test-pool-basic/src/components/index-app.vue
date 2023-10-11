@@ -22,7 +22,11 @@ export default {
                 {
                     'page-name': 'bs5-2',
                     url: './bs5-demo-2.html'
-                }
+                },
+                {
+                    'page-name': 'leaflet-map',
+                    url: './leaflet-map-demo.html'
+                },
             ],
         }
     },
