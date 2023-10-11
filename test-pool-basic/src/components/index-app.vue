@@ -14,6 +14,10 @@ export default {
                 {
                     'page-name': 'map',
                     url: './map.html'
+                },
+                {
+                    'page-name': 'bs5',
+                    url: './bs5-demo.html'
                 }
             ],
         }
