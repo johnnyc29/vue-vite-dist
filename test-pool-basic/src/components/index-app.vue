@@ -18,6 +18,10 @@ export default {
                 {
                     'page-name': 'bs5',
                     url: './bs5-demo.html'
+                },
+                {
+                    'page-name': 'bs5-2',
+                    url: './bs5-demo-2.html'
                 }
             ],
         }
