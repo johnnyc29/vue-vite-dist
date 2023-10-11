@@ -20,7 +20,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        // nested: resolve(__dirname, 'nested/index.html'),
+        testpoo1: resolve(__dirname, 'test-pool-basic/index.html'),
+        testpoo2: resolve(__dirname, 'test-pool-basic/map.html'),
       },
     },
   },
