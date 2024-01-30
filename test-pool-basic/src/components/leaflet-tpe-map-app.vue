@@ -165,7 +165,8 @@ export default {
                 }
             };
 
-            let url = '/public/data/latlng.json';
+            //let url = '/public/data/latlng.json';
+            let url = '/data/latlng.json';  //point to public directory
             fetch(url, options)
                 .then(response => {
                     if (!response.ok) {
