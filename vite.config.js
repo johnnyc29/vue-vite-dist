@@ -24,6 +24,7 @@ export default defineConfig({
         testpoo1: resolve(__dirname, 'test-pool-basic/index.html'),
         testpoo2: resolve(__dirname, 'test-pool-basic/map.html'),
         testpoo3: resolve(__dirname, 'test-pool-basic/leaflet-tpe-map.html'),
+        testpoo4: resolve(__dirname, 'test-multiple-mounts/index.html'),
       },
     },
   },
