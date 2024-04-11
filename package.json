@@ -11,11 +11,14 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
+    "bootstrap-table": "^1.22.2",
+    "bootstrap-vue": "^2.23.1",
     "datatables.net-dt": "^1.13.8",
     "jquery": "^3.7.1",
     "leaflet": "^1.9.4",
     "sweetalert2": "^11.7.32",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vue-bootstrap-table2": "^1.1.8"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
