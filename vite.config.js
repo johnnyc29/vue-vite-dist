@@ -16,7 +16,8 @@ export default defineConfig({
   plugins: [vue()],
   build: {
     //outDir: '../wwwroot', // Specify the output directory here
-    outDir: '../wwwroot/_vue-dist', // Specify the output directory here
+    //outDir: '../wwwroot/_vue-dist', // Specify the output directory here
+    outDir: './vue-vite-dist/dist', // Specify the output directory here
     minify: false,
     rollupOptions: {
       input: {
