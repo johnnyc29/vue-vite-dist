@@ -16,6 +16,7 @@ export default defineConfig({
   base:'./',  // <=================新增這行
   plugins: [vue()],
   build: {
+    outDir: 'docs',
     //outDir: '../wwwroot', // Specify the output directory here
     //outDir: '../wwwroot/_vue-dist', // Specify the output directory here
     //outDir: './vue-vite-dist/dist', // Specify the output directory here
