@@ -1,7 +1,7 @@
 import { _ as _export_sfc, r as ref, o as openBlock, c as createElementBlock, a as createBaseVNode, t as toDisplayString, F as Fragment, p as pushScopeId, b as popScopeId, d as createTextVNode, e as createVNode, f as createApp } from "./plugin-vueexport-helper-33dc0e52.js";
 const style = "";
-const _imports_0 = "" + new URL("../vite.svg", import.meta.url).href;
-const _imports_1 = "" + new URL("vue-5532db34.svg", import.meta.url).href;
+const _imports_0 = "/vite.svg";
+const _imports_1 = "/assets/vue-5532db34.svg";
 const HelloWorld_vue_vue_type_style_index_0_scoped_4b8d1567_lang = "";
 const _withScopeId$1 = (n) => (pushScopeId("data-v-4b8d1567"), n = n(), popScopeId(), n);
 const _hoisted_1$1 = { class: "card" };

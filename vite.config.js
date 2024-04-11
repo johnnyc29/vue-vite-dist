@@ -17,7 +17,7 @@ const INVALID_CHAR_REGEX = /[\x00-\x1F\x7F<>*#"{}|^[\]`;?:&=+$,]/g;
 const DRIVE_LETTER_REGEX = /^[a-z]:/i;
 
 export default defineConfig({
-  base:'./',  // <=================新增這行
+  //base:'./',  // <=================新增這行
   plugins: [vue()],
   build: {
     outDir: 'docs',
